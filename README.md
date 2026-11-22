@@ -32,9 +32,9 @@ I'm an Information Technology graduate (**B.Sc. (Hons) in IT**, SLIIT) and a **F
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,php,dart,kotlin" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,nestjs,express,spring,flask,laravel,flutter" alt="Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,mui,html,css,figma,postgres,mysql,mongodb,sqlite,prisma,git,azure" alt="Tools & Databases" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,php,dart,kotlin" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,nestjs,express,spring,laravel,flutter" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,html,css,postgres,mysql,mongodb,sqlite,git" alt="Tools & Databases" />
 </p>
 
 ---
